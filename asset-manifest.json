@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xxvista/static/css/main.8490e4f2.css",
+    "main.js": "/xxvista/static/js/main.ca326c09.js",
+    "index.html": "/xxvista/index.html",
+    "main.8490e4f2.css.map": "/xxvista/static/css/main.8490e4f2.css.map",
+    "main.ca326c09.js.map": "/xxvista/static/js/main.ca326c09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8490e4f2.css",
+    "static/js/main.ca326c09.js"
+  ]
+}
