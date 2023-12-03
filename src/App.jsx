@@ -33,11 +33,11 @@ const App = () => {
       <div className="container">
         <div className="slider">
           <form className="form" onSubmit={handleSubmit}>
-            <span className="title">Send a Silent Message</span>
+            <span className="title">Send a Silent Message:</span>
 
             <div className="form_control">
               <textarea
-                className="input textarea" // Added 'textarea' class
+                className="input textarea"
                 rows="20"
                 value={message}
                 onChange={(e) => setMessage(e.target.value)}
